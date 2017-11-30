@@ -1,0 +1,13 @@
+C:\VS2017\Projects\BotApplication.API\Chatbot101.API\Chatbot101.API.Web\bin\Debug\netcoreapp2.0\Chatbot101.API.Web.deps.json
+C:\VS2017\Projects\BotApplication.API\Chatbot101.API\Chatbot101.API.Web\bin\Debug\netcoreapp2.0\Chatbot101.API.Web.runtimeconfig.json
+C:\VS2017\Projects\BotApplication.API\Chatbot101.API\Chatbot101.API.Web\bin\Debug\netcoreapp2.0\Chatbot101.API.Web.runtimeconfig.dev.json
+C:\VS2017\Projects\BotApplication.API\Chatbot101.API\Chatbot101.API.Web\bin\Debug\netcoreapp2.0\Chatbot101.API.Web.dll
+C:\VS2017\Projects\BotApplication.API\Chatbot101.API\Chatbot101.API.Web\obj\Debug\netcoreapp2.0\Chatbot101.API.Web.csprojResolveAssemblyReference.cache
+C:\VS2017\Projects\BotApplication.API\Chatbot101.API\Chatbot101.API.Web\obj\Debug\netcoreapp2.0\Chatbot101.API.Web.csproj.CoreCompileInputs.cache
+C:\VS2017\Projects\BotApplication.API\Chatbot101.API\Chatbot101.API.Web\obj\Debug\netcoreapp2.0\Chatbot101.API.Web.AssemblyInfoInputs.cache
+C:\VS2017\Projects\BotApplication.API\Chatbot101.API\Chatbot101.API.Web\obj\Debug\netcoreapp2.0\Chatbot101.API.Web.AssemblyInfo.cs
+C:\VS2017\Projects\BotApplication.API\Chatbot101.API\Chatbot101.API.Web\bin\Debug\netcoreapp2.0\Chatbot101.API.Web.pdb
+C:\VS2017\Projects\BotApplication.API\Chatbot101.API\Chatbot101.API.Web\bin\Debug\netcoreapp2.0\Chatbot101.API.Data.dll
+C:\VS2017\Projects\BotApplication.API\Chatbot101.API\Chatbot101.API.Web\bin\Debug\netcoreapp2.0\Chatbot101.API.Data.pdb
+C:\VS2017\Projects\BotApplication.API\Chatbot101.API\Chatbot101.API.Web\obj\Debug\netcoreapp2.0\Chatbot101.API.Web.dll
+C:\VS2017\Projects\BotApplication.API\Chatbot101.API\Chatbot101.API.Web\obj\Debug\netcoreapp2.0\Chatbot101.API.Web.pdb
